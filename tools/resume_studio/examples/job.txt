@@ -1,0 +1,18 @@
+Principal Data Platform Engineer — Meridian Labs (fictional demonstration)
+San Francisco Bay Area / Hybrid
+
+Define architecture and technical strategy for our distributed systems and data platform.
+Build streaming pipelines with Kafka and Spark, with a focus on data quality and observability.
+Lead cross-team migrations and provide mentoring to engineers.
+
+Required qualifications:
+- Production experience with Python, SQL, Amazon Web Services, and Terraform.
+- Experience with data modeling, architecture reviews, and reliability.
+- At least 8 years of relevant engineering experience.
+- Ability to work onsite in San Francisco 2 days per week.
+
+Preferred qualifications:
+- Experience with Apache Iceberg and change data capture (CDC).
+- Experience with RAG evaluation and Kubernetes.
+
+This is a fictional JD for testing the tool. It is not a live job opportunity.

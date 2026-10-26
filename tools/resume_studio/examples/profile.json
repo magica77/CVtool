@@ -1,0 +1,37 @@
+{
+  "name": "Alex Morgan",
+  "headline": "Principal Data Engineer",
+  "contact": ["San Francisco Bay Area", "alex@example.com", "linkedin.com/in/example-alex"],
+  "summary": [
+    "Data platform engineer with experience defining architecture and delivering streaming and batch systems.",
+    "Led cross-team migrations and mentored engineers while improving data quality and platform reliability.",
+    "Built production pipelines using Python, SQL, Apache Kafka, and Apache Spark."
+  ],
+  "skills": ["Python", "SQL", "Apache Kafka", "Apache Spark", "AWS", "Airflow", "Terraform", "Data modeling", "Data quality", "Observability"],
+  "experience": [
+    {
+      "id": "northstar", "company": "Northstar Analytics (fictional)", "title": "Principal Data Engineer",
+      "start": "2022-03", "end": "Present", "location": "San Francisco, CA",
+      "bullets": [
+        {"id": "northstar-1", "text": "Defined architecture for a streaming data platform using Apache Kafka and Apache Spark, processing 40 million events daily."},
+        {"id": "northstar-2", "text": "Led migration of Python and SQL pipelines to AWS, reducing processing costs by 28% while maintaining recovery objectives."},
+        {"id": "northstar-3", "text": "Established data quality checks and observability for 120 pipelines, reducing incident investigation time from 3 hours to 45 minutes."},
+        {"id": "northstar-4", "text": "Mentored 6 engineers and coordinated architecture reviews across 3 product teams."},
+        {"id": "northstar-5", "text": "Standardized Terraform modules and deployment reviews for shared data infrastructure."},
+        {"id": "northstar-6", "text": "Maintained internal onboarding documentation for engineering teams."}
+      ]
+    },
+    {
+      "id": "harbor", "company": "Harbor Systems (fictional)", "title": "Senior Data Engineer",
+      "start": "2018-06", "end": "2022-02", "location": "Oakland, CA",
+      "bullets": [
+        {"id": "harbor-1", "text": "Built Python and SQL ingestion pipelines orchestrated with Airflow, consolidating 12 source systems into a shared analytics platform."},
+        {"id": "harbor-2", "text": "Redesigned data modeling standards with analysts, reducing duplicated reporting logic across 8 business domains."},
+        {"id": "harbor-3", "text": "Implemented recovery playbooks and dataset ownership reviews to improve reliability of daily reporting."}
+      ]
+    }
+  ],
+  "education": ["B.S., Computer Science | Example University | 2018"],
+  "certifications": [],
+  "projects": []
+}
